@@ -18,8 +18,8 @@ Cheatsheet about tips and tricks for Android Development
 |Surround With|`Opt`+`Cmd`+`T`|`Alt`+`Ctrl`+`T`
 #####**Tip #2 - Use plugins to become more efficient**
 1. [KeyPromoter](https://plugins.jetbrains.com/plugin/4455)
-	The plugin basically will annoy the hell out of you by showing you a big screen overlay with the key combination you should have used , if you used your mouse to execute some command to a level when you basically would start using the key combination just to avoid KeyPromoter annoying you all the time. 
-	Its also is usefull features, like it will prompt you to create a key binding for a command which does not have a key binding and you have used it 3 times.
+    The plugin basically will annoy the hell out of you by showing you a big screen overlay with the key combination you should have used , if you used your mouse to execute some command to a level when you basically would start using the key combination just to avoid KeyPromoter annoying you all the time. 
+    Its also is usefull features, like it will prompt you to create a key binding for a command which does not have a key binding and you have used it 3 times.
 1. [String Manipulation](https://plugins.jetbrains.com/plugin/2162)
 2. [Lines Sorter](https://plugins.jetbrains.com/plugin/5919)
 #####**Tip #3 - Use the Darcula Theme in Android Studio**
@@ -55,6 +55,7 @@ A tool to analyze battery consumers using Android "bugreport" files.
 Avoid using `+` when specifying the version of dependencies.
 + Keeps one secured from unexpected API changes in the dependency.
 + Avoids doing an extra network call for the checking latest version of each dependency on every build.
+#### **Tip #10 - Use [Handler instead of a TimerTask](http://www.mopri.de/2010/timertask-bad-do-it-the-android-way-use-a-handler/)**
 ---
 ###***Other Resources***
 #### **Tip #1 - Listen to podcasts**
@@ -63,6 +64,12 @@ Avoid using `+` when specifying the version of dependencies.
 P.S : I use [Player.fm](https://player.fm/) to listen to these podcasts. They even have an [Android Client](https://play.google.com/store/apps/details?id=fm.player&hl=en) , all for FREE.
 #### **Tip #2 - Checkout new android libraries**
 [Android Arsenal](https://android-arsenal.com/)
+#### **Tip #3 - Use freely available mockable api points**
++ [Mockey](https://github.com/clafonta/Mockey) - A tool for testing application interactions over http, with a focus on testing web services, specifically web applications that consume XML, JSON, and HTML.
++ [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
++ [API Studio](http://apistudio.io/) - a playground for API developers
++ [Mocky](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
++ [Mockbin](http://mockbin.com) - Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.
 License
 =======
     Copyright 2016 Nishant Srivastava

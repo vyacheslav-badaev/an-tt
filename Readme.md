@@ -29,7 +29,7 @@ Cheatsheet about tips and tricks for Android Development
 Ok, I know its more like a preference , but trust me using that keeps your eyes less strained as they would be if you used the Default Light theme.
 + **Don't use a small font**
 Preferably use a font in Android Studio thats easy to read and is at a font size which doesnot forces you to strain your eyes.
-I use [Menlo font]().
+I use [Menlo font](https://en.wikipedia.org/wiki/Menlo_(typeface)).
 + **Use a code style**
 You should use a standard codestyle 
  So possible contenders can be

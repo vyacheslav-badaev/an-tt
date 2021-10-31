@@ -109,6 +109,10 @@ DRY = Donot Repeat Yourself
     P.S : I use [Player.fm](https://player.fm/) to listen to these podcasts. They even have an [Android Client](https://play.google.com/store/apps/details?id=fm.player&hl=en) , all for FREE.
 + **Checkout new android libraries**
 [Android Arsenal](https://android-arsenal.com/)
++ **Follow on Twitter**
+    + [#AndroidDev](https://twitter.com/search?q=%23AndroidDev)
++ **Create a List on Twitter**
+    + [Android List](https://twitter.com/nisrulz/lists/android)
 + **Bookmark these sites for staying upto date **
     + [Android Developers - Youtube Channel](https://www.youtube.com/user/androiddevelopers/videos)
     + [Android Niceties - UI Showcase](http://androidniceties.tumblr.com/)

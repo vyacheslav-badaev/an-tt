@@ -75,6 +75,19 @@ A tool to analyze battery consumers using Android "bugreport" files.
     }
 }
   ```
++ **Use shrinkResources**
+  ```gradle
+  android {
+    ...
+    buildTypes {
+        release {
+            shrinkResources true
+            minifyEnabled true
+            ...
+        }
+    }
+}
+  ```
 + **[Simulating Android killing your app in the background](https://twitter.com/Jahnold/status/759775495655333888),  run in terminal**
   `adb shell am kill`
 + **Follow the below [rule to have faster gradle builds](https://medium.com/@skaliakoudas/decreasing-build-times-by-decreasing-gradle-memory-requirements-7fcafc6d98ea#.otnm0ofb6)**

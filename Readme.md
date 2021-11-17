@@ -44,7 +44,7 @@ You should use a standard codestyle
 Apart from using physical devices , one should use emulators as they are as of now easy to manage and equivalently powerful.
 + [Genymotion](https://www.genymotion.com/)
 + [Intel Emulator bundled in SDK Manger](https://developer.android.com/studio/run/emulator.html)
----
+-
 ###***Make better choices while coding***
 + **Use OkHttp over HttpUrlConnect**
 HttpUrlConnect suffers from [quite some bugs](https://android-developers.blogspot.in/2011/09/androids-http-clients.html). 
@@ -133,7 +133,7 @@ DRY = Donot Repeat Yourself
 + **[Package by Feature, not layers](https://medium.com/the-engineering-team/package-by-features-not-layers-2d076df1964d)**
 + **[Learn about Dependency Resolution](http://crushingcode.co/the-curious-case-of-dependency-conflicts/)** 
   With the speed android dependencies update, sooner or later you are going to encounter some sort of dependency conflict. Solution is making use of Dependency Resoultion. [Official Reference](https://docs.gradle.org/current/dsl/org.gradle.api.artifacts.ResolutionStrategy.html)
----
+-
 ###***Other Resources***
 + **Listen to podcasts**
   1. [Fragmented](http://fragmentedpodcast.com/)
@@ -172,7 +172,7 @@ DRY = Donot Repeat Yourself
   + [AndroidDevDigest](https://www.androiddevdigest.com/)
   + [Infinium #AndroidSweets](https://androidsweets.ongoodbits.com/)
   + [Kotlin Weekly](http://us12.campaign-archive2.com/home/?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)
----
+-
 #### **Extra : Android Libraries built by me**
 + [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Enabling device information to be at android developers hand like a piece of cake!
 + [Sensey](https://github.com/nisrulz/Sensey) - Android library to make detecting gestures easy

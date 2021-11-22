@@ -63,7 +63,7 @@ A tool to analyze battery consumers using Android "bugreport" files.
   + Keeps one secured from unexpected API changes in the dependency.
   + Avoids doing an extra network call for the checking latest version of each dependency on every build.
 + **Use [Handler instead of a TimerTask](http://www.mopri.de/2010/timertask-bad-do-it-the-android-way-use-a-handler/)**
-+ **[Donot use your own personal email for Google Play Developer Account](https://www.reddit.com/r/Android/comments/2hywu9/google_play_only_one_strike_is_needed_to_ruin_you/)**
++ **[Do not use your own personal email for Google Play Developer Account](https://www.reddit.com/r/Android/comments/2hywu9/google_play_only_one_strike_is_needed_to_ruin_you/)**
 + **Use Vectors instead of PNG**
   If you do **have** to use png, compress them. Take a look at [TinyPNG](https://tinypng.com).
 + **Use proguard**
@@ -95,7 +95,7 @@ A tool to analyze battery consumers using Android "bugreport" files.
   `adb shell am kill`
 + **Follow the below [rule to have faster gradle builds](https://medium.com/@skaliakoudas/decreasing-build-times-by-decreasing-gradle-memory-requirements-7fcafc6d98ea#.otnm0ofb6)**
   `Gradle memory >= Dex memory + 1Gb`
-+ **Split your apk using gradle when using Native code, donot bundle all of em together and ship!.. coz that will make you evil**
++ **Split your apk using gradle when using Native code, do not bundle all of em together and ship!.. coz that will make you evil**
   ```gradle
   defaultConfig {
       ...
@@ -125,11 +125,10 @@ A tool to analyze battery consumers using Android "bugreport" files.
       }
     }
   ```
-+ **Use [Handler instead of a TimerTask](http://www.mopri.de/2010/timertask-bad-do-it-the-android-way-use-a-handler/) for scheduling**
 + **Learn about some architecture such as MVP or Clean**
 + **Try to understand and follow TDD (Test Driven Development)**
 + **Follow the DRY principle**
-DRY = Donot Repeat Yourself
+DRY = Do not Repeat Yourself
 + **[Package by Feature, not layers](https://medium.com/the-engineering-team/package-by-features-not-layers-2d076df1964d)**
 + **[Learn about Dependency Resolution](http://crushingcode.co/the-curious-case-of-dependency-conflicts/)** 
   With the speed android dependencies update, sooner or later you are going to encounter some sort of dependency conflict. Solution is making use of Dependency Resoultion. [Official Reference](https://docs.gradle.org/current/dsl/org.gradle.api.artifacts.ResolutionStrategy.html)

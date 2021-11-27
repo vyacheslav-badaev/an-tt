@@ -19,6 +19,11 @@ Contributions are always welcome, hoping people will help me in growing this. To
   |Format the code with proper Indentation|`Cmd`+`Opt`+`L`|`Ctrl`+`Alt`+`L`
   |Surround With|`Opt`+`Cmd`+`T`|`Alt`+`Ctrl`+`T`
   |Open Terminal|`Opt`+`F12`|`Alt`+`F12`
+  |Generate Setter/Getters/|`Cmd`+`N`|`Alt`+`Ins`
+  |Find Class|`CMD`+`O`|`Ctrl`+`N`
+  |Refactor/Rename|`Shift`+`F6`|`Shift`+`F6`
+  |Quick Fix|`Opt`+`Enter`|`Alt`+`Enter`
+  |Goto Definition|`Cmd`+`B`|`Ctrl`+`B`
 + **Use plugins to become more efficient**
   1. [KeyPromoter](https://plugins.jetbrains.com/plugin/4455)
     The plugin basically will annoy the hell out of you by showing you a big screen overlay with the key combination you should have used , if you used your mouse to execute some command to a level when you basically would start using the key combination just to avoid KeyPromoter annoying you all the time. 

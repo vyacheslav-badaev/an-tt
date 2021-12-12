@@ -218,8 +218,7 @@ DRY = Do not Repeat Yourself
 + [OptimusHTTP](https://github.com/nisrulz/OptimusHTTP) - Android library that simplifys networking in android via an async http client
 + [ShoutOut](https://github.com/nisrulz/ShoutOut) - Android library for logging information in android
 ####Credits
-Some of the tips and tricks are something I have been following in my workflow and some of them have been from various other sources.
-I have tried to add direct links  wherever I could remember, giving people due credit who have explained the concepts. If  you think I have missed any , then either send a PR or open an issue and I will fix it asap.
+This curated cheatsheet includes tips and tricks that I have been following in my workflow as well as those being suggested/followed by other android devs worldwide.I have tried to add direct links  wherever I could remember, giving people due credit who have explained the concepts. If  you think I have missed any , then either send a PR or open an issue and I will fix it asap.
 License
 =======
     Copyright 2016 Nishant Srivastava

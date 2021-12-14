@@ -166,6 +166,9 @@ DRY = Do not Repeat Yourself
   P.S : I use [Player.fm](https://player.fm/) to listen to these podcasts. They even have an [Android Client](https://play.google.com/store/apps/details?id=fm.player&hl=en) , all for FREE.
 + **Checkout new android libraries**
 [Android Arsenal](https://android-arsenal.com/)
++ **Checkout android example apps**
+  + [Android Example](https://github.com/nisrulz/android-examples)
+  + [Google Samples](https://github.com/googlesamples)
 + **Follow on Twitter**
   + [#AndroidDev](https://twitter.com/search?q=%23AndroidDev)
 + **Create a List on Twitter**

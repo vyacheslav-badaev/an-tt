@@ -165,10 +165,10 @@ DRY = Do not Repeat Yourself
   There are others too, but the above two are the popular ones, you can lookup more using tag `android` on sites offering Podcast Services.
   P.S : I use [Player.fm](https://player.fm/) to listen to these podcasts. They even have an [Android Client](https://play.google.com/store/apps/details?id=fm.player&hl=en) , all for FREE.
 + **Checkout new android libraries**
-[Android Arsenal](https://android-arsenal.com/)
+  [Android Arsenal](https://android-arsenal.com/) - Android developer portal with tools, libraries, and apps
 + **Checkout android example apps**
-  + [Android Example](https://github.com/nisrulz/android-examples)
-  + [Google Samples](https://github.com/googlesamples)
+  + [Android Examples](https://github.com/nisrulz/android-examples) - Simple basic isolated apps, for budding android devs.
+  + [Google Samples](https://github.com/googlesamples) - Various sample apps provided by Google
 + **Follow on Twitter**
   + [#AndroidDev](https://twitter.com/search?q=%23AndroidDev)
 + **Create a List on Twitter**
@@ -195,18 +195,18 @@ DRY = Do not Repeat Yourself
   + [Mocky](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
   + [Mockbin](http://mockbin.com) - Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.
 + **Subscribe to newsletters to stay upto date**
-  + [Android Weekly](http://androidweekly.net/)
-  + [AndroidDevDigest](https://www.androiddevdigest.com/)
-  + [Infinium #AndroidSweets](https://androidsweets.ongoodbits.com/)
-  + [Kotlin Weekly](http://us12.campaign-archive2.com/home/?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)
+  + [Android Weekly](http://androidweekly.net/) - Free newsletter that helps you to stay cutting-edge with your Android Development
+  + [AndroidDevDigest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter
+  + [Infinium #AndroidSweets](https://androidsweets.ongoodbits.com/) - Fresh news from Droid zone
+  + [Kotlin Weekly](http://us12.campaign-archive2.com/home/?u=f39692e245b94f7fb693b6d82&id=93b2272cb6) - Free newsletter to stay uptodate with Kotlin Development
 + **Some awesome utility tools**
-  + [Android SVG to VectorDrawable](https://inloop.github.io/svg2android/)
-  + [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
-  + [Android 9-patch shadow generator](https://inloop.github.io/shadow4android/)
-  + [APK method count](https://inloop.github.io/apk-method-count/)
-  + [Material Palette](https://www.materialpalette.com/)
-  + [Javadoc Themer](javadocthemer.crushingcode.co)
-  + [Method Count](http://www.methodscount.com/)
+  + [Android SVG to VectorDrawable](https://inloop.github.io/svg2android/) - One VectorDrawable to rule all screen densities
+  + [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - View sqlite file online
+  + [Android 9-patch shadow generator](https://inloop.github.io/shadow4android/) - Tool that makes fully customizable shadows possible
+  + [APK method count](https://inloop.github.io/apk-method-count/) - Tool that outputs per-package method counts
+  + [Material Palette](https://www.materialpalette.com/) - Easily generate the color pallete based on material design
+  + [Javadoc Themer](javadocthemer.crushingcode.co) - Give your boooring javadocs a splash of colors!
+  + [Method Count](http://www.methodscount.com/) - Use this tool to avoid the dreaded 65K method limit of the DEX file format!
 -
 #### **Extra : Android Libraries built by me**
 + [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Enabling device information to be at android developers hand like a piece of cake!

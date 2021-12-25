@@ -160,6 +160,10 @@ A tool to analyze battery consumers using Android "bugreport" files.
   ```
 + **Learn about some architecture such as MVP or Clean**
 + **Try to understand and follow TDD (Test Driven Development)**
++ **To force re-download of dependencies**
+  ```gradle 
+  ./gradlew --refresh-dependencies
+  ```
 + **Follow the DRY principle**
 DRY = Do not Repeat Yourself
 + **[Package by Feature, not layers](https://medium.com/the-engineering-team/package-by-features-not-layers-2d076df1964d)**

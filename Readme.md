@@ -195,6 +195,8 @@ DRY = Do not Repeat Yourself
   2. [Android Developers Backstage](https://androidbackstage.blogspot.in/)
   There are others too, but the above two are the popular ones, you can lookup more using tag `android` on sites offering Podcast Services.
   P.S : I use [Player.fm](https://player.fm/) to listen to these podcasts. They even have an [Android Client](https://play.google.com/store/apps/details?id=fm.player&hl=en) , all for FREE.
++ **Checkout [CodePath Android Cliffnotes](https://guides.codepath.com/android)**
+   It is the central crowdsourced resource for complete and up-to-date practical Android developer guides for any topic.
 + **Checkout new android libraries**
   [Android Arsenal](https://android-arsenal.com/) - Android developer portal with tools, libraries, and apps
 + **Checkout android example apps**

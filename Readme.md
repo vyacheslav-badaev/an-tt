@@ -209,6 +209,7 @@ This one needs special mention due to how useful it is. It basically is a window
   P.S : I use [Player.fm](https://player.fm/) to listen to these podcasts. They even have an [Android Client](https://play.google.com/store/apps/details?id=fm.player&hl=en) , all for FREE.
 + **Checkout [CodePath Android Cliffnotes](https://guides.codepath.com/android)**
    It is the central crowdsourced resource for complete and up-to-date practical Android developer guides for any topic.
++ **[Take care about copyright](http://jeroenmols.com/blog/2016/08/03/copyright/)**
 + **Checkout new android libraries**
   [Android Arsenal](https://android-arsenal.com/) - Android developer portal with tools, libraries, and apps
 + **Checkout android example apps**

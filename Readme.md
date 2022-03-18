@@ -225,7 +225,7 @@ Yes, vysor was great, but if you want to share your keyboard and mouse directly 
   2. [Android Developers Backstage](https://androidbackstage.blogspot.in/)
   There are others too, but the above two are the popular ones, you can lookup more using tag `android` on sites offering Podcast Services.
   P.S : I use [Player.fm](https://player.fm/) to listen to these podcasts. They even have an [Android Client](https://play.google.com/store/apps/details?id=fm.player&hl=en) , all for FREE.
-+ **Checkout [Android Dialogue](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed)**
++ **Checkout [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed)**
   Short byte sized android interview videos with experts.
 + **Checkout [CodePath Android Cliffnotes](https://guides.codepath.com/android)**
    It is the central crowdsourced resource for complete and up-to-date practical Android developer guides for any topic.

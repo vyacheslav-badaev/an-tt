@@ -205,6 +205,16 @@ Yes, vysor was great, but if you want to share your keyboard and mouse directly 
   [This reddit post enlists a lot of such useful gradle scripts](https://www.reddit.com/r/androiddev/comments/3ig3gm/show_us_your_gradle_tasks)
 + **[Use a proper .gitignore in your Android Projects](/android.gitignore)**
 + **[Use LeakCanary to detect memory leaks in your app](https://github.com/square/leakcanary)** - Its a memory leak detection library for Android and Java.
++ **Speed up your gradle builds in Android Studio 2.2+**
+  + Switch to gradle 3.1
+    Run this inside your project folder to update your gradle wrapper
+    ```bash
+    ./gradlew wrapper --gradle-version 3.1
+    ```
+  + Set the below property in your global `gradle.properties` file
+    ```
+    android.enableBuildCache=true
+    ```
 -
 ###***Tips regarding UI/UX***
 + **Points to note**

@@ -56,6 +56,10 @@ Contributions are always welcome, hoping people will help me in growing this. To
   + `logd` - Generates `Log.d(TAG, "");`
   + `newInstance` - Generates the static `newInstance` function inside a Fragment
   + `Toast` - Generates `Toast.makeText(context, "", Toast.LENGTH_SHORT).show();`
+  + `fbc` - findViewById with cast
+  + `const` - Define a android style int constant
+  + `logm` - Log current method name and its arguments.
+  + `logr` - Log result of the current method
   [Comprehensive list of all Live Templates in Android Studio](https://github.com/keyboardsurfer/idea-live-templates)
 + **Use the Darcula Theme in Android Studio**
   Ok, I know its more like a preference , but trust me using that keeps your eyes less strained as they would be if you used the Default Light theme.

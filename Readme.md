@@ -53,13 +53,20 @@ Contributions are always welcome, hoping people will help me in growing this. To
   1. [ADB Idea](https://plugins.jetbrains.com/plugin/7380) 
     Plugin that adds ADB commands to Android Studio and Intellij such as ADB Uninstall App, ADB Kill App, ADB Restart App, etc
 + **Use Live Templates in Android Studio**
-  + `logd` - Generates `Log.d(TAG, "");`
   + `newInstance` - Generates the static `newInstance` function inside a Fragment
   + `Toast` - Generates `Toast.makeText(context, "", Toast.LENGTH_SHORT).show();`
   + `fbc` - findViewById with cast
   + `const` - Define a android style int constant
+  + `logd` - Generates `Log.d(TAG, "");`
   + `logm` - Log current method name and its arguments.
   + `logr` - Log result of the current method
+  + `logt` - static logtaf with current classname
+  + `psf` - public static final
+  + `sout` - Prints a string to System.out
+  + `soutm` - Prints current class and method names to System.out
+  + `soutp` - Prints method parameter names and values to System.out
+  + `visible` - Set view visibility to VISIBLE
+  + `noInstance` - private empty constructor to prohibit instance creation
   [Comprehensive list of all Live Templates in Android Studio](https://github.com/keyboardsurfer/idea-live-templates)
 + **Use the Darcula Theme in Android Studio**
   Ok, I know its more like a preference , but trust me using that keeps your eyes less strained as they would be if you used the Default Light theme.
